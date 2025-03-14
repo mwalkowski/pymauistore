@@ -19,7 +19,7 @@ pip install -r requrements.txt
 ## Usage
 To extract the embedded DLLs from a `.so` file:
 ```bash
-python unpack_assemblies.py libassemblies.arm64-v8a.blob.so output_dir
+python pymauistore.py libassemblies.arm64-v8a.blob.so output_dir
 ```
 
 - Replace `libassemblies.arm64-v8a.blob.so` with your target `.so` file path.
