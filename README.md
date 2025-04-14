@@ -44,7 +44,6 @@ output_dir/
 - **Payload extraction**: Uses the ELF format (pyelftools) to locate the hidden payload.
 - DLL libraries might be LZ4-compressed (`XALZ` header). This script automatically decompresses them.
 
-## Credits
-- Michał Walkowski ([Original article](https://mwalkowski.com/post/decompiling-an-android-application-written-in-net-maui-9-xamarin/))
+[Original article](https://mwalkowski.com/post/decompiling-an-android-application-written-in-net-maui-9-xamarin/)
 
 
